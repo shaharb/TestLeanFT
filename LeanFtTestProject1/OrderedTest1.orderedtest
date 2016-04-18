@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <OrderedTest name="orderedtest1" storage="c:\users\behagen\desktop\freelance projects\meir\wpfapplication1\leanfttestproject1\orderedtest1.orderedtest" id="5754d6b3-0828-4dc5-a446-ceb0de86ae21" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
   <TestLinks>
+    <TestLink id="c9d20888-cd6f-7edf-8468-ca29840edb8a" name="Verify_CounterShowsNumberOfButtonClicks" storage="bin\debug\leanfttestproject1.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
     <TestLink id="c04c99ab-b6cd-52b2-d609-d60058b591c9" name="TestMethod1" storage="bin\debug\leanfttestproject1.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   </TestLinks>
 </OrderedTest>
